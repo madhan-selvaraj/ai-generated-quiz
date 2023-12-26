@@ -1,0 +1,58 @@
+{
+  "Science": [
+    "Biology",
+    "Physics",
+    "Chemistry",
+    "Astronomy",
+    "Environmental Science"
+  ],
+  "History": [
+    "World History",
+    "Ancient Civilizations",
+    "American History",
+    "European History",
+    "Asian History"
+  ],
+  "Geography": [
+    "Countries and Capitals",
+    "World Landmarks",
+    "Physical Geography",
+    "Flags of the World",
+    "Oceans and Continents"
+  ],
+  "Technology": [
+    "Computer Science Basics",
+    "Programming Languages",
+    "Internet and Web Technologies",
+    "Gadgets and Devices",
+    "Emerging Technologies"
+  ],
+  "Mathematics": [
+    "Algebra",
+    "Geometry",
+    "Trigonometry",
+    "Calculus",
+    "Mathematical Puzzles"
+  ],
+  "Movies and TV Shows": [
+    "Film Trivia",
+    "Famous Directors and Actors",
+    "TV Series",
+    "Movie Quotes",
+    "Oscars and Awards"
+  ],
+  "Sports": [
+    "Football (Soccer)",
+    "Basketball",
+    "Baseball",
+    "Olympic Games",
+    "Sports Records and Achievements"
+  ],
+  "General Knowledge": [
+    "Current Affairs",
+    "World Events",
+    "Famous Personalities",
+    "Inventions and Discoveries",
+    "Random Facts"
+  ]
+}
